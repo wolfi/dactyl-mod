@@ -1,10 +1,10 @@
 # dactyl-mod
 
-https://ryanis.cool/cosmos/ was used for the base of this keyboard. I've fixed and modded a few things to my taste.
+A modified version of the Dactyl keyboard based on https://ryanis.cool/cosmos/. I've customized several aspects to suit my preferences.
 
-Everything is done in Blender, because I'm a CAD newb.
+Everything is modeled in Blender, because I have zero skills in any CAD software. Also I have only slightly more then zero skills in Blender, so don't put too much trust into what you find here.
 
-# TBD
+## TBD
 
 * Trackball version
 * Plum Twist PCB version
