@@ -1,0 +1,2 @@
+* Direct solder OR MxLEDBit
+* Adafruit KB2040 USB-C

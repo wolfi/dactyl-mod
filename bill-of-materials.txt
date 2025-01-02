@@ -1,0 +1,27 @@
+Keys and Switches
+36 1u DSA Keycaps
+36 MX-Compatible Switches
+36 Kailh Hotswap Sockets
+
+PCB
+36 SK6812MINI-E LEDs (Optional)
+36 Amoeba King OR MxLEDBit PCBs
+36 1N4148 Diodes (SOD-123)
+
+Electrical
+2 Adafruit KB2040 Boards
+2 PJ-320A TRRS Connectors
+1 TRRS Cable
+1 Spool Wire Wrap or Magnet Wire
+
+Mounting
+18 M3 x 6 mm Flat Head Screws
+For attaching the bottom plate and microcontroller holder
+2 M3 x 8 mm Flat Head Screws
+For attaching microcontroller holder through bottom plate
+20 M3 screw inserts
+
+Other Parts
+1 Pair 3D Printed Components
+8 Rubber or Silicone Feet
+For stopping your keyboard from sliding
