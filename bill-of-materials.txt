@@ -4,7 +4,7 @@ Keys and Switches
 36 Kailh Hotswap Sockets
 
 PCB
-36 SK6812MINI-E LEDs (Optional)
+36 SK6812MINI-E LEDs (Optional, should be the E version)
 36 Amoeba King OR MxLEDBit PCBs
 36 1N4148 Diodes (SOD-123)
 
